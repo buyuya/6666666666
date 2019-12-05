@@ -1,0 +1,288 @@
+.background{widows: 200px;
+  height:102px;
+  background-color:#171717;
+  position: relative;
+}
+body{
+  margin:0px 0px 0px 0px;
+  overflow-x:hidden;
+}
+.p100{widows:200px;
+  height:200px;
+  position:relative;
+  top:-82px;
+  left:329px;
+}
+.International{
+  color:#3bbef0;
+  position:relative;
+  top:-278px;
+  left:981px;
+  font-size:13px;
+}
+.house{
+  background-image:url(./Photos/house.png);
+  width:60px;
+  height:70px;
+  color:white;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-261px;
+  left:322px;
+}
+ul li{
+  display:inline-block;
+  color:white;
+  font-size:13.5px;
+  padding:14px;
+}
+.shouhang{
+  position:relative;
+  top:-349px;
+  left:344px;
+}
+.beijing{background-image:url(./Photos/beijing.jpg);
+  width:1900px;
+  height:800px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-365px;
+  background-size:84%;
+  
+}
+.syj{
+  color:rgb(56, 54, 54);
+  height:10px;
+  font-size:33px;
+  position:relative;
+  top:-585px;
+  left:660px;
+  font-family:"National",helvetica,arial,verdana,tahoma,sans-serif;
+}
+.SAR ul li{
+  display:inline-block;
+  color:#0093de;
+  padding:10px;
+  position:relative;
+  top:-570px;
+  left:525px;
+  font-family:inherit;
+  font-size:15px;
+  padding:8px;
+}
+.border{
+  width:1px;
+  height:20px;
+  background-color:#636262d4;
+  position:relative;
+  top:-614px;
+  left:722px;
+}
+.border2{
+  width:1px;
+  height:20px;
+  background-color:#636262d4;
+  position:relative;
+  top:-634px;
+  left:852px;
+}
+.p1{
+  background-image:url(./Photos/p1.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-570px;
+  left:170px;
+  background-size:19%;
+}
+.p2{
+  background-image:url(./Photos/p2.png);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-1020px;
+  left:490px;
+  background-size:19%;
+}
+.p3{
+  background-image:url(./Photos/p3.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-1470px;
+  left:810px;
+  background-size:19%;
+}
+.p4{
+  background-image:url(./Photos/p4.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-1921px;
+  left:1130px;
+  background-size:19%;
+}
+.p5{background-image:url(./Photos/p5.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-2045px;
+  left:170px;
+  background-size:19%;
+  
+}
+.p6{
+  background-image:url(./Photos/p6.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-2495px;
+  left:490px;
+  background-size:19%;
+}
+.p7{
+  background-image:url(./Photos/p7.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-2945px;
+  left:810px;
+  background-size:19%;
+}
+.p8{
+  background-image:url(./Photos/p8.jpg);
+  height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  top:-3395px;
+  left:1130px;
+  background-size:19%;
+}
+.Dte{
+  height:20px;
+  position:relative;
+  top:-3500px;
+  left:625px;
+  font-size:30px;
+
+}
+.MTF ul li{
+  height:10px;
+  color:#0093de;
+  position:relative;
+  top:-3490px;
+  left:593px;
+  padding:9px;
+}
+.border3{
+  width:1px;
+  height:20px;
+  background-color:#636262d4;
+  position:relative;
+  top:-3525px;
+  left:786px;
+}
+.border4{
+  width:1px;
+  height:20px;
+  background-color:#636262d4;
+  position:relative;
+  top:-3544px;
+  left:867px;
+}
+.heikuang{
+  width:470px;
+  height:190px;
+  background-color:rgba(5,5,5,0.75);
+  position:relative;
+  top:-4973px;
+  left:35px;
+}
+.GMW{
+  height:50px;
+  position:relative;
+  top:-5150px;
+  left:50px;
+  font-size:30px;
+  color:white;
+  padding:5px;
+}
+.AOO{
+  height:20px;
+  position:relative;
+  top:-5150px;
+  left:50px;
+  font-size:15px;
+  color:white;
+}
+.sousuo{
+  border:1px solid rgba(244,244,200,0.35);
+  position:relative;
+  top:-5355px;
+  left:1130px;
+  background-color:#171717;
+}
+.fangdajing a{
+    fill: currentColor;
+    height: 15px;
+    width: 15px;
+    display: block;
+    position:relative;
+    top:-5373px;
+    left:1275px;
+    color:white;
+}
+.fangdajing a:hover{
+color:#55beff;
+}
+.lk2{
+  width:130px;
+  height:40px;
+  background-color:#2db6e8;
+  position:relative;
+  top:-5150px;
+  left:50px;
+}
+a .lk2:hover{
+  background-color:#0093de;
+}
+.VTV{
+  height:20px;
+  position:relative;
+  top:-5180px;
+  left:53px;
+  color:white;
+}
+.PH1{
+  background-image:url(./Photos/PH.jpg);
+  background-repeat:no-repeat;
+  width:1900px;
+  height:1000px;
+  position:relative;
+  top:-3880px;
+  left:170px;
+}
+.wuip{
+  height:20px;
+  font-size:30px;
+  position:relative;
+  top:-4370px;
+  left:660px;
+}
+.osl{
+  height:20px;
+  position:relative;
+  top:-4330px;
+  left:527px;
+  padding-bottom:20px;
+  font-size:15px;
+}
+.FG ul li{
+  height:20px;
+  color:#0093de;
+  position:relative;
+  top:-4330px;
+  left:608px;
+  padding:10px;
+  font-size:15px;
+}
